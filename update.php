@@ -46,7 +46,7 @@
                 }
                 else 
                 {
-                    $error = "Name Must Be Grater Than 3 Chars / Password Must Be Less Than 20 Chars";
+                    $error = "Name Must Be more Than 3 Chars / Password Must Be Less Than 20 Chars";
                 }
             }
             else 
