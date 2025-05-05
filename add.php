@@ -21,7 +21,7 @@
                         $error = 'Please enter a valid Email';
                     }
                 } else {
-                    $error = 'Password must be smaller than 20 characters';
+                    $error = 'Password must be less than 20 characters';
                 }
             } else {
                 $error = 'Name must be greater than 3 characters';
